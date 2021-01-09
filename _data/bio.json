@@ -2,11 +2,11 @@
   "basics": {
     "name": "Jacob Graham",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://jacobrg22.github.io/images/jacobrg22.jpg",
     "email": "jacobrg@hawaii.edu",
     "phone": "808-266-0661",
     "website": "https://jacobrg22.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.B.A. in MIS and a B.A. in History the University of Hawaii at Manoa. I expect to graduate in Fall 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -24,19 +24,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "history",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "french",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "algorithms",
       "keywords": [
       ]
     }
