@@ -8,8 +8,6 @@ labels:
   - Learning
 ---
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+Growing up I was really involved in Scouting, and came to develop an understanding of how to work with groups of people. The troop I was a part of was really well run, with each individual like a cog in a machine. As I started my first job, I built upon these skills with technology, using greater use of information systems and even some nominal levels of programming in order to communicate and work better with my co-workers and supervisor. Software in this way came to represent a new part of the machine which I had not considered -- the oil you use to make things run smoother. 
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+I came to realize that understanding these tools we use so extensively in our daily lives is integral to succeding not only in business, but also in life in the 21st century. The urging of my advisor, classmates, and this realization of the role that these information systems play in our daily lives encouraged me to pursue MIS as a degree.
