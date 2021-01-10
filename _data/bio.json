@@ -65,9 +65,19 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2022)",
+      "area": "Management Information Systems (expected Fall, 2022)",
       "studyType": "B.B.A.",
       "startDate": "2021-01-11",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "History (expected Spring, 2022)",
+      "studyType": "B.A.",
+      "startDate": "2018-08-31",
       "endDate": "Present",
       "gpa": "",
       "courses": [
