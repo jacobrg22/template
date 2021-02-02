@@ -61,7 +61,7 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "HTML"
       ]
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "History (expected Spring, 2022)",
+      "area": "History (expected Fall, 2022)",
       "studyType": "B.A.",
       "startDate": "2018-08-31",
       "endDate": "Present",
