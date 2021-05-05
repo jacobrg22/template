@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflecting on Assignment 2 Technical Essay
+title: Checkpoint Assignment 3
 date: 2021-05-05
 labels:
   - Software Engineering
