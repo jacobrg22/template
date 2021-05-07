@@ -23,7 +23,9 @@ I did not work with a partner, but I did ask my classmate, Noah Kim for help on 
 
 **How did you get help when you needed it? What did you need help with?**
 
-I had trouble making the functions for processing login and registration. After extensive experimentation, I decided to ask my classmate, Noah Kim, for help. He provided some guidance on the functions and gave me the ideas I needed to set up the /process_login and /process_registration on my server. I also struggled with setting up the validation (character limit/character restrictions/format), and so I looked at w3 examples as a basis for the character/email limitations test on my server.js.
+I had trouble making the functions for processing login and registration. After extensive experimentation, I decided to ask my classmate, Noah Kim, for help. He provided some guidance on the functions and gave me the ideas I needed to set up the /process_login and /process_registration on my server. I also struggled with setting up the validation (character limit/character restrictions/format), and so I looked at w3 examples as a basis for the character/email limitations test on my server.js. 
+
+UPDATE 5/6/21: After receiving feedback for Assignment2, I asked Prof. Dan Port about an file access permission issue related to Cyberduck. After an exchange of emails, the issue was able to be resolved. By default my user_data.json did not allwo others to write to the file, which was causing an abrupt termination. I also asked my classmate Kimberly Matutina for help on displaying the email on the invoice pages. With a few additions, including requesting the query, I was able to sucessfully display the name and email to the user.
 
 **How was developing this assignment different than assignment #1?**
 
