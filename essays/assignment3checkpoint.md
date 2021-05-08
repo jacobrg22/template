@@ -6,11 +6,12 @@ date: 2021-05-05
 labels:
   - Software Engineering
   - Learning
+  - Checkpoint
 ---
 
 **Develop a prototype of your entire application that addresses the following points:**
 
-Here is my PPT prototype: https://drive.google.com/file/d/1Obf5lXl4TX5_SAM6nZ3GnqKwXUpBJ1Ld/view?usp=sharing
+Here is my PPT prototype: https://tinyurl.com/kkk59nb4
 
 And here is a short clip describing my plans for Assignment3: https://youtu.be/wXCSt-IUhZY
 
