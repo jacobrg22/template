@@ -25,11 +25,15 @@ I will be storing data related to the products and quantity as part of a session
 //  var products_data;
 
 //  loadJSON('get_products_data', function (res) {
+
 //      products_data = JSON.parse(res);
+
 //  });
 
 //  loadJSON('get_cart', function (res) {
+
 //      shopping_cart = JSON.parse(res);
+
 //  });
 
 **How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?**
@@ -39,8 +43,11 @@ I will build upon the if statement that I used for Assignment2. This will redire
 //  let params = (new URL(document.location)).searchParams;
 
 //  if(params.has('username') == false) {
+
 //      alert("Oops! You are supposed to be here! Please login or register first before making a purchase!");
+
 //      window.location.replace('./index.html');
+
 //  }
 
 **Upon a successful login, how do you provide personalization in your UI? Explain how you did or will do this (paste code if necessary)**
@@ -50,20 +57,22 @@ Upon a successful login, I will provide a greeting (something like “hello John
 Under invoice.html:
 
 //    if (name !='undefined' && name !='') {
+
 //        document.write (Hello, ${name}! Please review your invoice below.)
+
 //    }
+
 //    else {
+
 //      document.write()
+
 //    }
 
 //    document.write(An invoice will be sent to ${params.get('email')}.);
 
 Under fin.html:
 
-//    document.write (
-//        <center>
-//        <p>Hello, ${name}! Thank you for shopping at Jacob's Pokemon Card Shop! An invoice has been sent to ${params.get('email')}.
-//    )
+//    document.write (<p>Hello, ${name}! Thank you for shopping at Jacob's Pokemon Card Shop! An invoice has been sent to ${params.get('email')}.)
 
 **If you are working with partners, how will you split up the work in your team so that you are working in parallel as effectively as possible? That is, who is doing what and when?**
 
