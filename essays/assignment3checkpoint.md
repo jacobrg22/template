@@ -39,7 +39,8 @@ if(params.has('username') == false) {
 
 Upon a successful login, I will provide a greeting (something like “hello John Smith” and note that an invoice will be sent to the email address associated with the user, which in this case would be “johnsmith@gmail.com.)” These personalized messages should follow the user up to order confirmation (fin.html).
 
-Under invoice.html
+Under invoice.html:
+
 // Give personalized message to user
   if (name !='undefined' && name !='') {
       document.write (`<b>Hello, ${name}! Please review your invoice below.</b>`)
@@ -50,7 +51,8 @@ Under invoice.html
 
   document.write(`<b>An invoice will be sent to ${params.get('email')}.</b>`);
 
-Under fin.html
+Under fin.html:
+
 // Give personalized message to user
   document.write (`
   <center>
