@@ -12,11 +12,13 @@ labels:
 
 Here is my PPT prototype: https://drive.google.com/file/d/1Obf5lXl4TX5_SAM6nZ3GnqKwXUpBJ1Ld/view?usp=sharing
 
-And here is a short clip describing my plans for Assignment3:
+And here is a short clip describing my plans for Assignment3: https://youtu.be/wXCSt-IUhZY
+
 
 **Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.**
 
 The shopping cart will be a separate page that the user can interact with. After the user is satisfied with what they want to purchase, they can click on a button called "Go to Invoice." This button will take them to the login page, where they will need to login (or register if they have not created an account yet). After the login is validated, they will be redirected to the invoice, which they will be asked to review before confirming their purchase.
+
 
 **Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.**
 
@@ -36,6 +38,7 @@ I will be storing data related to the products and quantity as part of a session
 
 //  });
 
+
 **How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?**
 
 I will build upon the if statement that I used for Assignment2. This will redirect the user if they are not logged in/associated with a user. I accomplished this by setting up an equality operator checking for username. If the user is not logged in, they should be redirected back to the homepage (index.html).
@@ -49,6 +52,7 @@ I will build upon the if statement that I used for Assignment2. This will redire
 //      window.location.replace('./index.html');
 
 //  }
+
 
 **Upon a successful login, how do you provide personalization in your UI? Explain how you did or will do this (paste code if necessary)**
 
@@ -74,9 +78,11 @@ Under fin.html:
 
 //    document.write (<p>Hello, ${name}! Thank you for shopping at Jacob's Pokemon Card Shop! An invoice has been sent to ${params.get('email')}.)
 
+
 **If you are working with partners, how will you split up the work in your team so that you are working in parallel as effectively as possible? That is, who is doing what and when?**
 
 I will not be working with a partner for this project, but I will be asking for help if I run into any issues.
+
 
 **How are you approaching Assignment 3 differently than Assignment 2?**
 
