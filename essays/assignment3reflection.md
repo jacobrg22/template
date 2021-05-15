@@ -15,31 +15,33 @@ My Assignment3 is a web application/ecommerce website that sells products relate
 
 **Any notable shortcomings, bugs, problems, or additional features not implemented?**
 
-Though I was able to remove products from the cart with a button built into the cart, I could not fully figure out how to apply that same effect to clear a cart after the user logged out. I would have liked to make the process a little more automated, but at the end of the day, I preferred functionality over complexity.
+Though I was able to remove products from the cart with a button built into the cart, I could not fully figure out how to apply that same effect to clear a cart after the user logged out. I would have liked to make the process a little more automated, but at the end of the day, I decided to stick with a system for logout that was working for the most part.
 
 
 **Describe what you are most proud of about your system:**
 
-I am most proud of the UI design of my website. I spent a fair bit of time playing around with .css in order to create what I believe to be an aesthetic website. In utilizing tutorails from w3 schools, I was able to create a really nice navbar, and some of the "visual effects" that I learned about near the beginning fo lass also came in handy.
+I am most proud of the UI design of my website. I spent a fair bit of time playing around with .css in order to create what I believe to be an aesthetic website. In utilizing tutorials from w3 schools, I was able to create a really nice navbar, and some of the "visual effects" that I learned about near the beginning of class also came in handy. I think that in general, my site is fairly easy to navigate, and self-explanatory.
 
 
 **Describe what you are least happy with your system:**
 
-There are a few more changes I wanted to add to the project, namely the fleshing out of a log-out system. At the moment, the /logout feature does its job fair enough (it logs you out), but I probably could have tied it to a button rather than an <a> tag.
+I wanted to build up my log-out system a bit more. At the moment, the /logout feature does its job fair enough (it logs you out), but I probably could have tied it to a button rather than an an HTML a tag. There are also some shortcuts I probably could have taken with repeating functions, like isNonNegInt or getCookie, so I would not have to copy and paste them each time I needed it.
 
 
 **How was developing this assignment different than assignment #2?**
 
-Developing Assignment3 took a lot more time than Assignment2 to complete, and
+Developing Assignment3 took a lot more time than Assignment2 to complete, and it was was far more intensive for me. I spent around 30 solid hours in total on the Assignment. However, my newfound knowledge/greater experience with the many shortcuts and all-around quality of life features provided by VSCode made the the actual time it took to "write" code faster. In developing this Assignment3, I also tried to take into account the feedback I received from Assignment2, and made sure to test the registration and related user_data.json permissions on the class server.
 
 
 **When you ran into a problem, what did you do to address it?**
 
-When I ran into a problem I first looked at the outputs in the console, as well as any suggestions by the debugging tools of VSCode. Most of the time I could fix the issue, (the ref at line x (x representing a number) helped a lot), but other times, I spent a lot of time trying (and failing to fix an issue). When I reached a stage of spending too much time trying to solve a problem, I tried looking on online resource and sometimes, I found something that worked well for what I needed.
+When I ran into a problem I first looked at the outputs in the console, as well as any suggestions by the debugging tools of VSCode. Most of the time I could fix the issue, (the error reference at line x (x representing a number) helped a lot), but other times, I spent a lot of time trying (and failing) to fix an issue. When I reached a stage of spending too much time trying to solve a problem, I tried looking on online resource and sometimes, I found something that worked well for what I needed. In other cases, I asked classmates for help (inside/outside of class).
+
 
 **Describe what worked well in doing this assignment?**
 
-I think that my 
+I think that my genuine passion for pokemon cards incentivized me to really put an effort into making Assignment3 (in my eyes) a respectable site for the sale of Pokemon cards and related Pokemon card products. In building upon the experience of the past 15 or so weeks, I was able to inprove the functionality of some existing features from Assignment2 and add new features that improved user experience (e.g. telling user if they are logged in, how many produts are in the cart, removing some minor redundancies, etc.).
+
 
 **Describe what did not work well in doing this assignment?**
 
@@ -48,7 +50,7 @@ I spent a long time testing out ways to display the final invoice to the user, a
 
 **What did you learn from doing this assignment?**
 
-From this assignment, I learned that there are a lot of great resources on the web for programmers and that VSCode offers a lot of shortcuts/quality of life features that are great to utilize. This may seem minor, but the "suggestions" that show up when type a line of code or function save an incredible amount of time on coding. I thought that you had to "click" on the suggestion at first, but then I learned that you can hit the "TAB" key to "write" previously referenced variables/functions. I found my coding to be much faster and efficient as a result of this. I also think that I've become fairly adept at using the find and replace tool. The find tool; for finding a line of code that was hiding in my server.js, and the replace tool; for standardizing variable names. I was aware of the old saying "two heads are greater than one," but I did not fully realize or appreciate what could be accomplished with the collective minds of hundreds, or even thousands of online contributors.
+From this assignment, I learned that there are a lot of great resources on the web for programmers and that VSCode offers a lot of shortcuts/quality of life features that are great to utilize. This may seem minor, but the "suggestions" that show up when type a line of code or function save an incredible amount of time on coding. I thought that you had to "click" on the suggestion at first, but then I learned that you can hit the "TAB" key to "write" previously referenced variables/functions. I found my coding to be much faster and efficient as a result of this. I also think that I've become fairly adept at using the find and replace tool. The find tool; for finding a line of code that was hiding in my server.js, and the replace tool; for standardizing variable names. I was aware of the old saying "two heads are greater than one," but I did not fully realize or appreciate what could be accomplished with the minds of classmates, or the (thousands?) of minds of online contributors.
 
 
 **If you could go back in time and do things differently, what would you change?**
@@ -62,7 +64,7 @@ Thinking about how to do something: I spent about 25% of my time on planning and
 
 Writing code: I spent approximately 15% of my time on the project writing code. I spent much longer "fixing" my code than I did just writing a function or line.
 
-Testing and debugging: I estimate that I spent about 60% of my time testing and debugging. As I hinted to previously, some
+Testing and debugging: I estimate that I spent about 60% of my time testing and debugging. Though I spent a lot of time on the other parts of the assignement, I just happened to spend a signfiicant
 
 
 **Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself) and explain briefly your rationale for the percentage breakdown. Be sure to include an overview of what specifically you and your partners contributed (e.g. “I worked on the security and my partner 1 worked on personalization”)**
